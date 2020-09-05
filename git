@@ -1,0 +1,4 @@
+### 名前を登録
+git config --global user.name "sumiem"
+### メールアドレスを登録
+git config --global user.email "permanent_spirit@hotmail.com"
